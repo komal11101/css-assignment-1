@@ -1,0 +1,43 @@
+h1{
+    color: red;
+}
+ul li{
+    color: red;
+}
+h3{
+    color: red;
+}
+
+ol li{
+    color: red;
+}
+li a{
+    color: red;
+}
+
+h2{
+    color: red;
+}
+ul li{
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+#para1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#para2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#para3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: red;
+}
